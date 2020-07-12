@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamranahmedse/github-actions-youtube.git",
+  "scripts": {
+    "build": "echo 'built'",
+    "test": "node ./tests/dummy.js"
+  },
+  "author": "Kamran Ahmed <kamranahmed.se@gmail.com>",
+  "license": "MIT"
+}
